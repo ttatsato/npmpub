@@ -1,13 +1,12 @@
 {
-  "name": "npm-publich",
+  "name": "@ttatsato/npmpub",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ttatsato/npmpub/issues"
   },
-  "homepage": "https://github.com/ttatsato/npmpub#readme"
+  "homepage": "https://github.com/ttatsato/npmpub#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
 }
