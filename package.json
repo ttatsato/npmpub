@@ -1,5 +1,5 @@
 {
-  "name": "@ttatsato/npmpub",
+  "name": "npmpub",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
